@@ -1,3 +1,4 @@
+# encoding: utf-8
 """贪吃蛇"""
 
 import random

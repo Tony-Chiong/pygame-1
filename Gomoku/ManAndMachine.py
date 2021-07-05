@@ -1,3 +1,4 @@
+# encoding: utf-8
 """五子棋之人机对战"""
 
 import sys

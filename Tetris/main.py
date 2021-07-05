@@ -1,4 +1,5 @@
-﻿import sys
+﻿#encoding: utf-8
+import sys
 import time
 import pygame
 from pygame.locals import *
